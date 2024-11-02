@@ -1,0 +1,55 @@
+body {
+    background-color: darkgray;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: yellow;
+    img {
+        border-radius: 50%;
+        width: 50%;
+        height: 25%;
+        border-width: 1px;
+        border-style: solid;
+        border-color: black;
+        display: block;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+}
+#header {
+background-color: darkgrey;
+text-align: center;
+border-width: 1px;
+border-radius: 5px;
+border-style: solid;
+}
+
+#instructions {
+border-width: 1px;
+border-style: solid;
+border-color: black;
+padding: 15px;
+margin-left: 35%;
+
+}
+
+
+#navlinks {
+text-align: left;
+margin-right: 35%;
+position: fixed;
+}
+
+#footer {
+    background-color: darkgrey;
+    text-align: center;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: solid;
+}
